@@ -13,3 +13,12 @@ whileLoop = (n) => {
 
   return 'done'
 }
+
+doWhile = (n) => {
+  do {
+    console.log(n)
+    n--
+  } while(n > 0)
+
+  return 'done'
+}
