@@ -14,7 +14,7 @@ whileLoop = (n) => {
   return 'done'
 }
 
-doWhile = (n) => {
+doWhileLoop = (n) => {
   do {
     console.log(n)
     n--
