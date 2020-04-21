@@ -8,7 +8,7 @@ forLoop = (array) => {
 whileLoop = (n) => {
   while(n > 0) {
     console.log(n)
-    n++
+    n--
   }
 
   cons.log('done')
