@@ -11,5 +11,5 @@ whileLoop = (n) => {
     n--
   }
 
-  cons.log('done')
+  console.log('done')
 }
